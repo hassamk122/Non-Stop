@@ -272,8 +272,11 @@ input[type="text"]{
     color: #333;
     padding: 50px 0;
     font-family: Arial, sans-serif;
+    margin-left: 40px;
 }
-
+.footer .footer-content{
+    margin-left: 40px;
+}
 
 .container {
     display: flex;
